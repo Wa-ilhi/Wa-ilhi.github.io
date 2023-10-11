@@ -53,6 +53,7 @@ body {
 
 .navbar-nav .nav-item .nav-link {
   position: relative;
+  font-weight: bold;
 }
 
 .navbar-nav .nav-item .nav-link::before {
